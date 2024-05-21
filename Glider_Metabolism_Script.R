@@ -1,5 +1,5 @@
 ##### Glider Metabolism Script #####
-##### Nolan Pearce (nolanpearce@trentu.ca) Nov. 2022 #####
+
 
 # Required packages
 library(rLakeAnalyzer)
