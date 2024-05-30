@@ -5,3 +5,5 @@ The Glider_metabolism_Script.R is the r file we used to get daily metabolic vari
 ETRM file calculates daily relative thermal resistance to mixing values calculated from glider data
 epi_chl_corrected calculates daily chlorophyl concentration after sundown each day to account for non-photochemical quenching 
 GAMM_models.R file contains generalised additive models used in the manuscript
+
+Cite as : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11395780.svg)](https://doi.org/10.5281/zenodo.11395780)
